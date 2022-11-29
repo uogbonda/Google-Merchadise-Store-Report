@@ -1,8 +1,5 @@
 # Google-Merchadise-Store-Report
 
-# Fast Sales Female Wear on ASOS website
-Exploring the ASOS information on female fast sells wears.
-
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
