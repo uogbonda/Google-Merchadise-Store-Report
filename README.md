@@ -6,7 +6,8 @@ Exploring the ASOS information on female fast sells wears.
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [SQL + Python](#sql-+-python)
+* [Methods](#methods)
+* [Key Findings](#key-findings)
 
 ## General info
 Google Merchandise store is an e-commerce site  that sells various items. The analysis is based on the activities from the October 16th 2022 to November 12th 2022.
@@ -22,14 +23,14 @@ Project performed on:
 * SQL (CASE statements).
 
 
-##Methods
+## Methods
 
 The method implemented was carried out by:
 * Extracting data from Google Analytics.
 * Querying the data using MySQL database to get the top and least 15 page viewed.
 * Creating Dashboard on Google data studio.
 
-##Key Findings
+## Key Findings
 
 The findings show the following:
 * The top 3 age distribution are  18-24, 25-34, and 35-44.
