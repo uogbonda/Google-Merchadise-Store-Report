@@ -1,5 +1,7 @@
 # Google-Merchadise-Store-Report
 
+#### Data Studio (Looker): https://datastudio.google.com/reporting/700cdf08-b906-40a5-a9bd-a2f73df7a4c8
+
 ## Table of Content
 * [General info](#general-info)
 * [Technologies](#technologies)
